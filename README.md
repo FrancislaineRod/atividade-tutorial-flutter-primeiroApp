@@ -2,12 +2,12 @@
 
 Atividade de tutorial do próprio flutter para construir o primeiro app.
 
-Aqui está o repositório do meu aplicativo flutter: <a href="https://github.com/FrancislaineRod/atividade-tutorial-flutter-desafioLogin">Aplicativo login</a>
+Aqui está o repositório do meu aplicativo flutter: <a href="https://github.com/FrancislaineRod/atividade-tutorial-flutter-primeiroApp">Aplicativo login</a>
 
 Segue o arquivo do tutorial: <a href="https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=pt-br#0">Primeiro aplicativo flutter</a>
 
-<img src="lib/assets/app1.png" alt="inicial">
-<img src="lib/assets/app2.png" alt="favoritos">
+<img src="lib/imagens/app1.png" alt="inicial">
+<img src="lib/imagens/app2.png" alt="favoritos">
 
 ## Getting Started
 
